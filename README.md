@@ -1,6 +1,6 @@
 # non-financial-api-switch (Newgen One)
 
-1) IAM (Identity Access Management) :
+I) IAM (Identity Access Management) :
 
 1) user registration and login / Single Sign-On (SSO)
 2) Session Management
@@ -11,7 +11,7 @@
 7) Documents upload (bulk)
 
 
-2) File Management Service (Includes Ingestion, Processing, Storage, Retrieval, and Metadata Management) : 
+II) File Management Service (Includes Ingestion, Processing, Storage, Retrieval, and Metadata Management) : 
 
 1) Perform checksum validations to ensure files are not corrupted.
 2) Automatically classify assets based on their content (e.g., identifying objects in images, detecting document types).
@@ -25,11 +25,11 @@
 10) Detect and flag duplicate or incomplete assets.
 11) Automatically move assets to different storage classes (e.g., hot, warm, cold) based on access frequency.
 
-3) Analytics and Monitoring Service
+III) Analytics and Monitoring Service
 (Combines Business Intelligence, Reporting, Visualization, Dashboards, Monitoring, Tracing, Risk Assessment, and Audit)
 
-4) Workflow and Integration Service
+IV) Workflow and Integration Service
 (Handles Workflow Automation, Process Management, Integration, and Notifications)
 
-5) Customer and Infrastructure Support Service
+V) Customer and Infrastructure Support Service
 (Covers Onboarding, Profiling, Customer Support, Cloud Infrastructure, Backup, and Hosting)
